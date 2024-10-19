@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Màu nền nhẹ */
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#orange {
+    color: orange;
+}
+#green {
+    color: green;
+}
+#yellow {
+    color: yellow;
+}
+.color-title {
+    font-weight: normal;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
